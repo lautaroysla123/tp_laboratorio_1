@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586568806 source:c:\users\quinchoatr\desktop\tp_laboratorio_1\funciones.c
+	<stdlib.h>
+	"prototipos.h"
+
+1586825618 c:\users\quinchoatr\desktop\tp_laboratorio_1\prototipos.h
+
+1586826141 source:c:\users\quinchoatr\desktop\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
